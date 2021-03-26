@@ -1,2 +1,2 @@
-Javascript, Express, WebSocket
+HTML, Bootstrap, Javascript, Express, WebSocket
 
